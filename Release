@@ -1,0 +1,8 @@
+Origin: 2e's custom services 
+Label: 2e's custom services
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Codename: 2e's custom services
+Description: must have tweaks for arm64e
